@@ -1,0 +1,33 @@
+#particles-js{
+  background: url(../images/portada.jpg);
+  background-position: center;
+  background-attachment: contain;
+  background-size: cover;
+  width: 100%;
+}
+
+.ancho-letras{
+  top: 400px;
+  position: absolute;
+  font-family: 'Saira Extra Condensed', sans-serif;
+  width: 100%;
+  /* background: rgba(0, 0, 0, 0.8); */
+  text-align: center;
+  z-index: 1;
+}
+
+.letras-slider{
+  width: 80%;
+  margin: auto;
+}
+
+.letras-slider h1{
+  color: #444;
+  font-size: 70px;
+}
+
+.letras-slider p{
+  color: #444;
+  font-size: 25px;
+  padding-top: 50px;
+}
