@@ -1,0 +1,63 @@
+.red{
+  position: fixed;
+  top: 200px;
+  z-index: 100;
+  left: 0;
+}
+
+#iconfab {
+  color: white;
+}
+
+#linkedin{
+  background: #007bb5;
+  /* background: orange; */
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+  transition: all .4s ease;
+}
+
+#linkedin:hover{
+  background: orange;
+  padding: 10px 40px;
+}
+
+#twitter{
+  background: #55acee;
+  /* background: orange; */
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+  transition: all .4s ease;
+}
+#twitter:hover{
+  background: orange;
+  padding: 10px 40px;
+}
+
+#instagram{
+  background: #125688;
+  /* background: orange; */
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+  transition: all .4s ease;
+}
+#instagram:hover{
+  background: orange;
+  padding: 10px 40px;
+}
+
+#google{
+  background: #dd4b39;
+  /* background: orange; */
+  padding: 10px 20px;
+  color: white;
+  text-decoration: none;
+  transition: all .4s ease;
+}
+#google:hover{
+  background: orange;
+  padding: 10px 40px;
+}

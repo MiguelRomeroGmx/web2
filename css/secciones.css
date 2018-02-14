@@ -121,6 +121,7 @@ p{
 
 .banner-2{
   /* margin-top: 50px; */
+  margin-bottom: 50px;
   background: url(../images/banner3.jpg);
   float: left;
   width: 100%;
@@ -147,6 +148,7 @@ p{
   color: #fff;
   border-bottom: 2px solid #fff;
 }
+
 
 
 
