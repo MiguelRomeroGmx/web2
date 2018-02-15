@@ -8,8 +8,15 @@
 .tablax4{
   float: left;
   width: 25%;
+  margin-top: 20px;
+}
+
+.tablaxd{
+  float: left;
+  width: 25%;
   margin-top: 10px;
 }
+
 .caja-precio{
   border: 1px solid orange;
   background: #30353c;
@@ -20,6 +27,10 @@
   padding-top: 20px;
   font-size: 3em;
   padding-bottom: 10px;
+}
+
+.caja-precio:hover{
+  border: 5px solid orange;
 }
 
 .caja-precio h4{
@@ -75,7 +86,36 @@
   background: orange;
 }
 
+.destacado{
+  background-color: #fff;
+ box-shadow: 0 0 8px rgba(0, 0, 0, .9);    /*sombras */
+  z-index: 500;
+}
 
+.destacado h4{
+  color: #30353c;
+  font-size: 30px;
+}
+
+.destacado .icono-tabla{
+  font-size: 4em;
+}
+
+.destacado .contratar-a{
+  background: #30353c;
+}
+
+.destacado .contratar-a:hover{
+  background: orange;
+}
+
+.fa-star{
+  color: orange;
+}
+
+.contacto{
+  /* padding-top: 50px; */
+}
 
 
 
