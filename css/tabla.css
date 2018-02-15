@@ -72,7 +72,7 @@
 }
 
 .contratar-a{
-  background: #84c34a;
+  background: orange;
   text-decoration: none;
   color: white;
   text-transform: uppercase;
@@ -83,7 +83,7 @@
 }
 
 .contratar-a:hover{
-  background: orange;
+  background: #84c34a;
 }
 
 .destacado{
@@ -151,7 +151,7 @@
 }
 
 .redes-sociales .caja-precio:hover{
-  border: 5px solid orange;
+  border: 5px solid white;
 }
 
 .redes-sociales .caja-precio h4{
