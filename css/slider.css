@@ -1,33 +1,33 @@
 #particles-js{
-  background: url(../images/portada.jpg);
+  background: url(../images/portada6.jpg);
   background-position: center;
   background-attachment: contain;
   background-size: cover;
   width: 100%;
+
 }
 
-.ancho-letras{
-  top: 400px;
+/* .ancho-letras{
+  top: 200px;
   position: absolute;
   font-family: 'Saira Extra Condensed', sans-serif;
   width: 100%;
-  /* background: rgba(0, 0, 0, 0.8); */
   text-align: center;
   z-index: 1;
 }
 
 .letras-slider{
   width: 80%;
-  margin: auto;
 }
 
 .letras-slider h1{
-  color: #444;
+  color: black;
   font-size: 70px;
 }
 
 .letras-slider p{
-  color: #444;
+  opacity: .8;
+  color: #222;
   font-size: 25px;
   padding-top: 50px;
-}
+} */

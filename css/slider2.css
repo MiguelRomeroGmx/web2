@@ -1,0 +1,7 @@
+#particles-js{
+  background: url(../images/portada6.jpg);
+  background-position: center;
+  background-attachment: contain;
+  background-size: cover;
+  width: 100%;
+}
