@@ -1,13 +1,14 @@
 #particles-js{
-  background: url(../images/portada6.jpg);
+  width: 100%;
+  background: url(../images/portada.jpg);
   background-position: center;
   background-attachment: contain;
   background-size: cover;
-  width: 100%;
+
 
 }
 
-/* .ancho-letras{
+.ancho-letras{
   top: 200px;
   position: absolute;
   font-family: 'Saira Extra Condensed', sans-serif;
@@ -30,4 +31,4 @@
   color: #222;
   font-size: 25px;
   padding-top: 50px;
-} */
+}
