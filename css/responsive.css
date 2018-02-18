@@ -1,0 +1,626 @@
+@media only screen and (max-width:470px){
+.red{
+	display: none;
+}
+header{
+	height: 55px;
+}
+
+h2{
+  font-size: 20px;
+}
+
+h3{
+  font-size: 15px;
+  text-align: justify;
+}
+
+.ancho{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.logo {
+	width: 100%;
+	height: 35px;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+.logo p a{
+	width: 100%;
+	font-size: 25px;
+	margin: 0;
+}
+nav{
+	width: 100%;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+nav ul li a{
+	font-size: 10px;
+}
+.slideInUp{
+	display: none;
+}
+
+.bienvenidos{
+  margin-top: 10px;
+  text-align: center;
+}
+
+.contenedor-columnas{
+  width: 100%;
+  margin: auto;
+  margin-bottom: 10px;
+  /* margin-top: 50px; */
+}
+
+.columnasx3{
+	width: 100%;
+  margin-bottom: 10px;
+  /* margin-top: 10px; */
+}
+
+.letras-slider h1{
+	font-size: 15px;
+}
+
+.banner-1 h3{
+  font-size: 15px;
+  text-align: center;
+}
+
+.banner-1 a{
+  font-size: 15px;
+  text-align: center;
+}
+
+.redes-sociales .tabla{
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  padding-top: 5px;
+}
+.redes-sociales .tablax4{
+  float: left;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.tablax4{
+	width: 100%;
+}
+.tablaxd{
+	width: 100%;
+}
+.dos-columnas{
+	width: 100%;
+  margin-top: 10px;
+}
+.formulario{
+	width: 85%;
+	margin: 0;
+}
+.formulario{
+	width: 100%;
+}
+.caja-1{
+	width: 100%;
+}
+.caja-2{
+	width: 100%;
+}
+.datos{
+	width: 100%;
+}
+.correr{
+	width: 100%;
+  margin: 0px;
+  padding: 10px;
+
+}
+}
+
+
+@media only screen and (min-width:471px) and (max-width:660px) {
+
+  .red{
+  	display: none;
+  }
+  header{
+  	height: 55px;
+  }
+
+  h2{
+    font-size: 30px;
+  }
+
+  h3{
+    font-size: 18px;
+    text-align: justify;
+  }
+
+  .ancho{
+  	width: 100%;
+  	margin: 0;
+  	padding: 0;
+  }
+  .logo {
+  	width: 100%;
+  	height: 35px;
+  	text-align: center;
+  	padding: 0;
+  	margin: 0;
+  }
+  .logo p a{
+  	width: 100%;
+  	font-size: 28px;
+  	margin: 0;
+  }
+  nav{
+  	width: 100%;
+  	text-align: center;
+  	padding: 0;
+  	margin: 0;
+  }
+  nav ul li a{
+  	font-size: 10px;
+  }
+  .slideInUp{
+  	display: none;
+  }
+
+  .bienvenidos{
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .contenedor-columnas{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 20px;
+    /* margin-top: 50px; */
+  }
+
+  .columnasx3{
+  	width: 100%;
+    margin-bottom: 20px;
+    /* margin-top: 10px; */
+  }
+
+  .letras-slider h1{
+  	font-size: 25px;
+  }
+
+  .banner-1 h3{
+    font-size: 25px;
+    text-align: center;
+  }
+
+  .banner-1 a{
+    font-size: 25px;
+    text-align: center;
+  }
+
+  .redes-sociales .tabla{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 5px;
+  }
+  .redes-sociales .tablax4{
+    float: left;
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .tablax4{
+  	width: 100%;
+  }
+  .tablaxd{
+  	width: 100%;
+  }
+  .dos-columnas{
+  	width: 100%;
+    margin-top: 10px;
+  }
+  .formulario{
+  	width: 85%;
+  	margin: 0;
+  }
+  .formulario{
+  	width: 100%;
+  }
+  .caja-1{
+  	width: 100%;
+  }
+  .caja-2{
+  	width: 100%;
+  }
+  .datos{
+  	width: 100%;
+  }
+  .correr{
+  	width: 100%;
+    margin: 0px;
+    padding: 10px;
+
+  }
+  }
+
+
+  @media only screen and (min-width:661px) and (max-width:820px) {
+
+    .red{
+    	display: none;
+    }
+    header{
+    	height: 70px;
+    }
+
+    h2{
+      font-size: 35px;
+    }
+
+    h3{
+      font-size: 18px;
+      text-align: center;
+    }
+
+    .ancho{
+    	width: 90%;
+    	margin: auto;
+    	/* padding: 0; */
+    }
+    .logo {
+      width: 30%;
+      height: 70px;
+      float: left;
+    	height: 35px;
+      padding-top: 12px;
+      box-sizing: border-box;
+    }
+    .logo p a{
+    	width: 100%;
+    	font-size: 22px;
+
+    	margin: 0;
+    }
+    nav{
+    	width: 70%;
+    	text-align: right;
+      padding-top: 24px;
+      box-sizing: border-box;
+    }
+    nav ul li a{
+    	font-size: 12px;
+    }
+    .slideInUp{
+    	display: none;
+    }
+
+    .bienvenidos{
+      margin-top: 30px;
+      text-align: center;
+    }
+
+    .contenedor-columnas{
+      width: 100%;
+      margin: auto;
+      margin-bottom: 20px;
+      /* margin-top: 50px; */
+    }
+
+    .columnasx3{
+    	width: 33.33%;
+      margin-bottom: 20px;
+      /* margin-top: 10px; */
+    }
+
+
+
+    .letras-slider h1{
+    	font-size: 25px;
+    }
+
+    .banner-1 h3{
+      font-size: 25px;
+      text-align: center;
+    }
+
+    .banner-1 a{
+      font-size: 25px;
+      text-align: center;
+    }
+
+    .redes-sociales .tabla{
+      width: 100%;
+      margin: auto;
+      text-align: center;
+      padding-top: 5px;
+    }
+    .redes-sociales .tablax4{
+      float: left;
+      width: 50%;
+      margin-top: 10px;
+    }
+
+    .tablax4{
+    	width: 50%;
+    }
+    .tablaxd{
+    	width: 100%;
+    }
+
+    .redes-sociales .caja-precio:hover{
+      border: 1px solid white;
+    }
+
+
+    .dos-columnas{
+    	width: 100%;
+      margin-top: 10px;
+    }
+    .formulario{
+    	width: 85%;
+    	margin: 0;
+    }
+    .formulario{
+    	width: 100%;
+    }
+    .caja-1{
+    	width: 100%;
+    }
+    .caja-2{
+    	width: 100%;
+    }
+    .datos{
+    	width: 100%;
+    }
+    .correr{
+    	width: 100%;
+      margin: 0px;
+      padding: 10px;
+
+    }
+    }
+
+
+    @media only screen and (min-width:821px) and (max-width:1220px) {
+
+      .red{
+      	display: none;
+      }
+      header{
+      	height: 70px;
+      }
+
+      h2{
+        font-size: 35px;
+      }
+
+      h3{
+        font-size: 20px;
+        text-align: center;
+      }
+
+
+      .ancho{
+      	width: 80%;
+      	margin: auto;
+      	/* padding: 0; */
+      }
+      .logo {
+        width: 30%;
+        height: 70px;
+        float: left;
+      	height: 35px;
+        padding-top: 12px;
+        box-sizing: border-box;
+      }
+      .logo p a{
+      	width: 100%;
+      	font-size: 22px;
+
+      	margin: 0;
+      }
+      nav{
+      	width: 70%;
+      	text-align: right;
+        padding-top: 24px;
+        box-sizing: border-box;
+      }
+      nav ul li a{
+      	font-size: 15px;
+      }
+      .slideInUp{
+      	display: none;
+      }
+
+      .bienvenidos{
+        margin-top: 30px;
+        text-align: center;
+      }
+
+      .contenedor-columnas{
+        width: 100%;
+        margin: auto;
+        margin-bottom: 30px;
+        box-sizing: border-box;
+        /* margin-top: 50px; */
+      }
+
+      .columnasx3{
+      	width: 33.33%;
+        margin-bottom: 20px;
+          padding: 10px 10px;
+        /* margin-top: 10px; */
+      }
+
+      #icon{
+        float: left;
+        padding-right: 10px;
+        color: orange;
+        /* padding-bottom: 5px; */
+      }
+
+      .columnasx3 p{
+        font-size: 14px;
+      }
+
+
+      .letras-slider h1{
+      	font-size: 25px;
+      }
+
+      .banner-1 h3{
+        font-size: 25px;
+        text-align: center;
+      }
+
+      .banner-1 a{
+        font-size: 25px;
+        text-align: center;
+      }
+
+
+      .redes-sociales .tabla{
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        padding-top: 5px;
+      }
+      .redes-sociales .tablax4{
+        float: left;
+        width: 50%;
+        margin-top: 10px;
+      }
+
+      .tablax4{
+      	width: 50%;
+      }
+      .tablaxd{
+      	width: 100%;
+      }
+
+      .redes-sociales .caja-precio:hover{
+        border: 1px solid white;
+      }
+
+
+      .dos-columnas{
+      	width: 100%;
+        margin-top: 10px;
+      }
+      .formulario{
+      	width: 70%;
+      	margin: auto;
+      }
+
+      .caja-1{
+      	width: 100%;
+      }
+      .caja-2{
+      	width: 100%;
+      }
+      .datos{
+      	width: 100%;
+      }
+      .correr{
+      	width: 40%;
+        margin: 0px;
+        padding: 10px;
+
+      }
+      }
+
+@media only screen and (min-width:1368px) and (max-width:1380px) {
+
+  .columnasx3{
+    width: 33.33%;
+    margin-bottom: 2px;
+      padding: 12px 12px;
+    /* margin-top: 10px; */
+  }
+
+
+
+
+
+}
+
+
+
+
+/* .red{
+	display: none;
+}
+header{
+	height: 55px;
+}
+.ancho{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.logo {
+	width: 100%;
+	height: 30px;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+.logo p a{
+	width: 100%;
+	font-size: 30px;
+	margin: 0;
+}
+nav{
+	width: 100%;
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+nav ul li a{
+	font-size: 12px;
+}
+.letras-slider h1{
+	font-size: 40px;
+}
+.letras-slider p{
+	font-size: 15px;
+}
+.columnasx3{
+	width: 100%;
+}
+.tablax4{
+	width: 100%;
+}
+.tablaxd{
+	width: 100%;
+}
+.dos-columnas{
+	width: 100%;
+}
+.formulario{
+	width: 85%;
+	margin: 0;
+}
+.formu-ti{
+	width: 100%;
+}
+.caja-1{
+	width: 100%;
+}
+.caja-2{
+	width: 100%;
+}
+.datos{
+	width: 100%;
+}
+.correr{
+	width: 100%;
+}
+} */

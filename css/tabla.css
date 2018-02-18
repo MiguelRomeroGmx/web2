@@ -142,8 +142,14 @@
   background: white;
 }
 
+.ligas{
+  text-decoration: none;
+  color: orange;
+}
+
 .redes-sociales .icono-precio{
   /* color: #85c34a; */
+
   color: orange;
   padding-top: 20px;
   font-size: 3em;
@@ -153,6 +159,8 @@
 .redes-sociales .caja-precio:hover{
   border: 5px solid white;
 }
+
+
 
 .redes-sociales .caja-precio h4{
   color: orange;
@@ -172,6 +180,8 @@
   color: black;
   vertical-align: super;
 }
+
+
 
 .contacto {
   /* margin-top: 50px; */
