@@ -38,6 +38,8 @@ margin-top: 50px;
 }
 
 .correr{
+  text-decoration: none;
+  border-radius: 10px;
   margin: 20px;
   padding: 10px;
     width: 20%;

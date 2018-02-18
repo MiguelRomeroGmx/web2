@@ -70,6 +70,16 @@ p{
   width: 100%;
 }
 
+.columnasx3 a{
+  text-decoration: none;
+  color: black;
+}
+
+.columnasx3 a:hover{
+  /* text-decoration: none; */
+  color: orange;
+}
+
 .banner-11{
   /* margin-top: 50px; */
 
